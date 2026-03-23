@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Call of Silence x Zero Eclipse",
+  "base_artist": "Samuel Kim",
+  "createdAt": "2026-03-23T13:48:53.772103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Call of Silence x Zero Eclipse",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/01_Call_of_Silence_x_Zero_Eclipse_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call of Silence x Zero Eclipse",
+      "artist": "Samuel Kim Music",
+      "has_synced": true,
+      "path": "select/02_Call_of_Silence_x_Zero_Eclipse_Samuel_Kim_Music.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call of Silence x Zero Eclipse",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/03_Call_of_Silence_x_Zero_Eclipse_Samuel_Kim.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Call of Silence x Zero Eclipse (Cover)",
+      "artist": "Samuel Kim",
+      "has_synced": true,
+      "path": "select/04_Call_of_Silence_x_Zero_Eclipse_(Cover)_Samuel_Kim.lrc"
+    }
+  ]
+}
